@@ -8,9 +8,7 @@ class App extends Component {
   render() {
     return (
       <>
-        <main className='w-screen h-screen bg-'>
-          <Loading></Loading>
-        </main>
+        <main className='w-screen h-screen bg-regal-blue-4'></main>
       </>
     );
   }
